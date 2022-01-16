@@ -1,5 +1,7 @@
 # react-native-dropbox-file-explorer
 
+![Alt Text](app-record.gif)
+
 For Android: 
 
 ```
