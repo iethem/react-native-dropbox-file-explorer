@@ -9,4 +9,10 @@ npm i
 npm run android
 ```
 
-not tested on IOS yet
+For IOS:
+
+```
+npm i
+npx pod-install
+npm run ios
+```
